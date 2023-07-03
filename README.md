@@ -1,1 +1,5 @@
-#  Created API using FASTAPI for Demonstrating CRUD operations
+#  Created API for Todos for Demonstrating CRUD operations
+# Technologies Used
+* FastApi
+* Pymongo
+* dot-env
